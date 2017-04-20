@@ -1,2 +1,2 @@
 # Test
-Created for test purpose
+Created for test purpose only
